@@ -1,16 +1,13 @@
-### Hi there 👋
+# The Padawan Developer
+Hi 👋, I'm robin an Android developer and lifelong learner that loves building apps that help users be more productive and solve problems. I
+currently spend most of my time working on projects with small teams. I am looking to get hired in teams or companies where I will
+be exposed to new challenges that I can help solve with my skills.
 
-<!--
-**codejunk1e/codejunk1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intrests
+Languages​ :​ Java, Kotlin, Python, Dart, JavaScript
 
-Here are some ideas to get you started:
+Tools & Technologies​ :​ Git & GitHub, Android Studio, Pycharm, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: https://twitter.com/dev_padawan
+- Personal site: https://github.com/codejunk1e/portfolio
