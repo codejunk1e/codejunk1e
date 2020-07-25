@@ -4,9 +4,8 @@ currently spend most of my time working on projects with small teams. I am looki
 be exposed to new challenges that I can help solve with my skills.
 
 ## Intrests
-Languages​ :​ Java, Kotlin, Python, Dart, JavaScript
-
-Tools & Technologies​ :​ Git & GitHub, Android Studio, Pycharm, VSCode
+- Languages​ :​ Java, Kotlin, Python, Dart, JavaScript
+- Tools & Technologies​ :​ Git & GitHub, Android Studio, Pycharm, VSCode
 
 ## Get in touch
 - Twitter: https://twitter.com/dev_padawan
