@@ -9,4 +9,4 @@ be exposed to new challenges that I can help solve with my skills.
 
 ## Get in touch
 - Twitter: https://twitter.com/dev_padawan
-- Personal site: https://github.com/codejunk1e/portfolio
+- Personal site: https://codejunk1e.github.io/portfolio/
