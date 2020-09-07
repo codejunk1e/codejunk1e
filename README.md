@@ -1,7 +1,5 @@
-# The Padawan Developer
-Hi 👋, I'm robin an Android developer and lifelong learner that loves building apps that help users be more productive and solve problems. I
-currently spend most of my time working on projects with small teams. I am looking to get hired in teams or companies where I will
-be exposed to new challenges that I can help solve with my skills.
+﻿# The Padawan Developer
+Hi 👋, I'm Robin, an Android developer and lifelong learner who loves building productive apps and solving community problems. These days, I spend most of my time working on such projects and enhancing my skills. I would like to get a job at a company, work with other tech enthusiast and get exposed to new challenges.
 
 ## Intrests
 - Languages​ :​ Java, Kotlin, Python, Dart, JavaScript
